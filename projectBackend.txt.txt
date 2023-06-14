@@ -1,0 +1,2 @@
+Wykorzystuję NodeJS, handlebars; dane są przechowywane w bazie danych SQL przy użyciu MySql(phpMyAdmin).
+Aplikacja służy do przechowywania użytkowników w bazie danych; umożliwia ich dodawanie, usuwanie, edytowanie i wyszukiwanie.
